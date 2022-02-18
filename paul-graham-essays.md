@@ -15,6 +15,8 @@
 > that certainty would be reflected in large and rapidly growing
 > revenues, and you wouldn't be seeking seed funding.
 
+The leap of faith is found here.
+
 > The crucial feature of the initial market is that it exist.
 > That may seem like an obvious point, but the lack of it is
 > the biggest flaw in most startup ideas. There have to be some
@@ -30,10 +32,15 @@
 > But it wasn't spreading. So don't feel bad if you don't hit this gold
 > standard of convincingness. If Airbnb didn't hit it, it must be too high.
 
+If knowing if people wanted it was easy, everyone would build startups.
+
 > The best thing you can do in a YC interview is to teach the partners
 > about your users. So if you want to prepare for your interview,
 > one of the best ways to do it is to go talk to your users and find out
 > exactly what they're thinking. Which is what you should be doing anyway.
+
+If interviewing with early startups, when talking with founders I
+really should be asking about their users.
 
 > Competitors are rarely what kills startups. Poor execution does.
 > But you should know who your competitors are, and tell the YC partners
