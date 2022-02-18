@@ -32,6 +32,76 @@
 
 ## Billionaires Build (http://www.paulgraham.com/ace.html)
 
+> What YC looks for, above all, is founders who understand
+> some group of users and can make what they want. This is
+> so important that it's YC's motto: "Make something people want."
+
+> Which means the conversation during your YC interview will
+> have to be about something new: either a new need, or a new
+> way to satisfy one. And not just new, but uncertain. If it
+> were certain that the need existed and that you could satisfy it,
+> that certainty would be reflected in large and rapidly growing
+> revenues, and you wouldn't be seeking seed funding.
+
+> The crucial feature of the initial market is that it exist.
+> That may seem like an obvious point, but the lack of it is
+> the biggest flaw in most startup ideas. There have to be some
+> people who want what you're building right now, and want it so
+> urgently that they're willing to use it, bugs and all, even
+> though you're a small company they've never heard of.
+
+> Who are your first users going to be, and how do you know they
+> want this? If I had to decide whether to fund startups based on
+> a single question, it would be "How do you know people want this?"
+> ... That is a hard standard to meet, though. Airbnb didn't meet it.
+> They had the first part. They had made something they themselves wanted.
+> But it wasn't spreading. So don't feel bad if you don't hit this gold
+> standard of convincingness. If Airbnb didn't hit it, it must be too high.
+
+> The best thing you can do in a YC interview is to teach the partners
+> about your users. So if you want to prepare for your interview,
+> one of the best ways to do it is to go talk to your users and find out
+> exactly what they're thinking. Which is what you should be doing anyway.
+
+> Competitors are rarely what kills startups. Poor execution does.
+> But you should know who your competitors are, and tell the YC partners
+> candidly what your relative strengths and weaknesses are. Because the YC
+> partners know that competitors don't kill startups, they won't hold competitors
+> against you too much. They will, however, hold it against you if you seem
+> either to be unaware of competitors, or to be minimizing the threat they pose.
+
+> The partners don't expect your idea to be perfect. This is seed investing.
+> At this stage, all they can expect are promising hypotheses.
+
+> If the partners are sufficiently convinced that there's a path to a
+> big market, the next question is whether you'll be able to find it.
+> That in turn depends on three things: the general qualities of the founders,
+> their specific expertise in this domain, and the relationship between them.
+> How determined are the founders? Are they good at building things?
+> Are they resilient enough to keep going when things go wrong?
+> How strong is their friendship?
+
+> So that's what YC looks for in founders: authenticity. People's
+> motives for starting startups are usually mixed. They're usually
+> doing it from some combination of the desire to make money, the
+> desire to seem cool, genuine interest in the problem, and unwillingness
+> to work for someone else. The last two are more powerful motivators than
+> the first two. It's ok for founders to want to make money or to seem cool.
+> Most do. But if the founders seem like they're doing it just to make money
+> or just to seem cool, they're not likely to succeed on a big scale.
+
+> The most reliable way to become a billionaire is to start a company
+> that grows fast, and the way to grow fast is to make what users want.
+> Newly started startups have no choice but to delight users, or they'll
+> never even get rolling.
+
+> Users are what the partners want to know about in YC interviews,
+> and what I want to know about when I talk to founders that we funded
+> ten years ago and who are billionaires now. What do users want?
+> What new things could you build for them? Founders who've become
+> billionaires are always eager to talk about that topic. That's how
+> they became billionaires.
+
 ## The Airbnbs (http://www.paulgraham.com/airbnbs.html)
 
 ## How to Think for Yourself (http://www.paulgraham.com/think.html)
