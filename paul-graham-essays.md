@@ -81,7 +81,72 @@ really should be asking about their users.
 > billionaires are always eager to talk about that topic. That's how
 > they became billionaires.
 
-### Other Potential Reads
+### Why Nerds are Unpopular (http://www.paulgraham.com/nerds.html)
+
+> I know a lot of people who were nerds in school, and they all tell
+> the same story: there is a strong correlation between being smart
+> and being a nerd, and an even stronger inverse correlation between
+> being a nerd and being popular. Being smart seems to make you unpopular.
+> 
+> Why? ... Being smart doesn't make you an outcast in elementary school.
+> Nor does it harm you in the real world. ... But in a typical American
+> secondary school, being smart is likely to make your life difficult. Why?
+
+> Why don't smart kids make themselves popular? If they're so smart,
+> why don't they figure out how popularity works and beat the system,
+> just as they do for standardized tests?
+>
+> ...
+>
+> I think, is that they don't really want to be popular. ... There was
+> something else I wanted more: to be smart. Not simply to do well in
+> school, though that counted for something, but ... to make great things.
+
+> Public school teachers are in much the same position as prison wardens.
+> Wardens' main concern is to keep the prisoners on the premises.
+> They also need to keep them fed, and as far as possible prevent them
+> from killing one another. Beyond that, they want to have as little to
+> do with the prisoners as possible, so they leave them to create
+> whatever social organization they want.
+
+> Why is the real world more hospitable to nerds? ... [Because] it's
+> very large, and the things you do have real effects. When the things
+> you do have real effects, it's no longer enough just to be pleasing.
+> It starts to be important to get the right answers, and that's
+> where nerds show to advantage.
+
+> If I could go back and give my thirteen year old self some advice,
+> the main thing I'd tell him would be to stick his head up and look
+> around. I didn't really grasp it at the time, but the whole world we
+> lived in was as fake as a Twinkie. Not just school, but the entire town.
+
+> Adults can't avoid seeing that teenage kids are tormented. So why
+> don't they do something about it? Because they blame it on puberty.
+> ... Teenage kids used to have a more active role in society. In
+> pre-industrial times, they were all apprentices of one sort or
+> another ... Now adults have no immediate use for teenagers.
+> They would be in the way in an office. So they drop them off at
+> school on their way to work, much as they might drop the dog off
+> at a kennel if they were going away for the weekend.
+
+> The mediocrity of American public schools has worse consequences than
+> just making kids unhappy for six years. It breeds a rebelliousness that
+> actively drives kids away from the things they're supposed to be
+> learning. Like many nerds, probably, it was years after high school
+> before I could bring myself to read anything we'd been assigned then. 
+
+> Nerds aren't losers. They're just playing a different game, and a
+> game much closer to the one played in the real world.
+
+> If life seems awful to kids, it's neither because hormones are turning
+> you all into monsters (as your parents believe), nor because life
+> actually is awful (as you believe). It's because the adults, who no
+> longer have any economic use for you, have abandoned you to spend years
+> cooped up together with nothing real to do. Any society of that type is
+> awful to live in. You don't have to look any further to explain why
+> teenage kids are unhappy.
+
+## Other Potential Reads
 
 * Putting Ideas into Words (http://www.paulgraham.com/words.html)
 * Is There Such a Thing as Good Taste? (http://www.paulgraham.com/goodtaste.html)
@@ -272,7 +337,6 @@ really should be asking about their users.
 * Hackers and Painters (http://www.paulgraham.com/hp.html)
 * If Lisp is So Great (http://www.paulgraham.com/iflisp.html)
 * The Hundred-Year Language (http://www.paulgraham.com/hundred.html)
-* Why Nerds are Unpopular (http://www.paulgraham.com/nerds.html)
 * Better Bayesian Filtering (http://www.paulgraham.com/better.html)
 * Design and Research (http://www.paulgraham.com/desres.html)
 * A Plan for Spam (http://www.paulgraham.com/spam.html)
