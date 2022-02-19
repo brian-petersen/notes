@@ -4,147 +4,137 @@
 
 ### Billionaires Build (http://www.paulgraham.com/ace.html)
 
-> What YC looks for, above all, is founders who understand
-> some group of users and can make what they want. This is
-> so important that it's YC's motto: "Make something people want."
+> What YC looks for, above all, is founders who understand some group of users
+> and can make what they want. This is so important that it's YC's motto: "Make
+> something people want."
 
-> Which means the conversation during your YC interview will
-> have to be about something new: either a new need, or a new
-> way to satisfy one. And not just new, but uncertain. If it
-> were certain that the need existed and that you could satisfy it,
-> that certainty would be reflected in large and rapidly growing
-> revenues, and you wouldn't be seeking seed funding.
+> Which means the conversation during your YC interview will have to be about
+> something new: either a new need, or a new way to satisfy one. And not just
+> new, but uncertain. If it were certain that the need existed and that you
+> could satisfy it, that certainty would be reflected in large and rapidly
+> growing revenues, and you wouldn't be seeking seed funding.
 
 The leap of faith is found here.
 
-> The crucial feature of the initial market is that it exist.
-> That may seem like an obvious point, but the lack of it is
-> the biggest flaw in most startup ideas. There have to be some
-> people who want what you're building right now, and want it so
-> urgently that they're willing to use it, bugs and all, even
+> The crucial feature of the initial market is that it exist. That may seem
+> like an obvious point, but the lack of it is the biggest flaw in most startup
+> ideas. There have to be some people who want what you're building right now,
+> and want it so urgently that they're willing to use it, bugs and all, even
 > though you're a small company they've never heard of.
 
-> Who are your first users going to be, and how do you know they
-> want this? If I had to decide whether to fund startups based on
-> a single question, it would be "How do you know people want this?"
-> ... That is a hard standard to meet, though. Airbnb didn't meet it.
-> They had the first part. They had made something they themselves wanted.
-> But it wasn't spreading. So don't feel bad if you don't hit this gold
-> standard of convincingness. If Airbnb didn't hit it, it must be too high.
+> Who are your first users going to be, and how do you know they want this? If
+> I had to decide whether to fund startups based on a single question, it would
+> be "How do you know people want this?" ... That is a hard standard to meet,
+> though. Airbnb didn't meet it. They had the first part. They had made
+> something they themselves wanted. But it wasn't spreading. So don't feel bad
+> if you don't hit this gold standard of convincingness. If Airbnb didn't hit
+> it, it must be too high.
 
 If knowing if people wanted it was easy, everyone would build startups.
 
-> The best thing you can do in a YC interview is to teach the partners
-> about your users. So if you want to prepare for your interview,
-> one of the best ways to do it is to go talk to your users and find out
-> exactly what they're thinking. Which is what you should be doing anyway.
+> The best thing you can do in a YC interview is to teach the partners about
+> your users. So if you want to prepare for your interview, one of the best
+> ways to do it is to go talk to your users and find out exactly what they're
+> thinking. Which is what you should be doing anyway.
 
-If interviewing with early startups, when talking with founders I
-really should be asking about their users.
+If interviewing with early startups, when talking with founders I really should
+be asking about their users.
 
-> Competitors are rarely what kills startups. Poor execution does.
-> But you should know who your competitors are, and tell the YC partners
-> candidly what your relative strengths and weaknesses are. Because the YC
-> partners know that competitors don't kill startups, they won't hold competitors
-> against you too much. They will, however, hold it against you if you seem
-> either to be unaware of competitors, or to be minimizing the threat they pose.
+> Competitors are rarely what kills startups. Poor execution does. But you
+> should know who your competitors are, and tell the YC partners candidly what
+> your relative strengths and weaknesses are. Because the YC partners know that
+> competitors don't kill startups, they won't hold competitors against you too
+> much. They will, however, hold it against you if you seem either to be
+> unaware of competitors, or to be minimizing the threat they pose.
 
-> The partners don't expect your idea to be perfect. This is seed investing.
-> At this stage, all they can expect are promising hypotheses.
+> The partners don't expect your idea to be perfect. This is seed investing. At
+> this stage, all they can expect are promising hypotheses.
 
-> If the partners are sufficiently convinced that there's a path to a
-> big market, the next question is whether you'll be able to find it.
-> That in turn depends on three things: the general qualities of the founders,
-> their specific expertise in this domain, and the relationship between them.
-> How determined are the founders? Are they good at building things?
-> Are they resilient enough to keep going when things go wrong?
-> How strong is their friendship?
+> If the partners are sufficiently convinced that there's a path to a big
+> market, the next question is whether you'll be able to find it. That in turn
+> depends on three things: the general qualities of the founders, their
+> specific expertise in this domain, and the relationship between them. How
+> determined are the founders? Are they good at building things? Are they
+> resilient enough to keep going when things go wrong? How strong is their
+> friendship?
 
-> So that's what YC looks for in founders: authenticity. People's
-> motives for starting startups are usually mixed. They're usually
-> doing it from some combination of the desire to make money, the
-> desire to seem cool, genuine interest in the problem, and unwillingness
-> to work for someone else. The last two are more powerful motivators than
-> the first two. It's ok for founders to want to make money or to seem cool.
-> Most do. But if the founders seem like they're doing it just to make money
-> or just to seem cool, they're not likely to succeed on a big scale.
+> So that's what YC looks for in founders: authenticity. People's motives for
+> starting startups are usually mixed. They're usually doing it from some
+> combination of the desire to make money, the desire to seem cool, genuine
+> interest in the problem, and unwillingness to work for someone else. The last
+> two are more powerful motivators than the first two. It's ok for founders to
+> want to make money or to seem cool. Most do. But if the founders seem like
+> they're doing it just to make money or just to seem cool, they're not likely
+> to succeed on a big scale.
 
-> The most reliable way to become a billionaire is to start a company
-> that grows fast, and the way to grow fast is to make what users want.
-> Newly started startups have no choice but to delight users, or they'll
-> never even get rolling.
+> The most reliable way to become a billionaire is to start a company that
+> grows fast, and the way to grow fast is to make what users want. Newly
+> started startups have no choice but to delight users, or they'll never even
+> get rolling.
 
-> Users are what the partners want to know about in YC interviews,
-> and what I want to know about when I talk to founders that we funded
-> ten years ago and who are billionaires now. What do users want?
-> What new things could you build for them? Founders who've become
-> billionaires are always eager to talk about that topic. That's how
-> they became billionaires.
+> Users are what the partners want to know about in YC interviews, and what I
+> want to know about when I talk to founders that we funded ten years ago and
+> who are billionaires now. What do users want? What new things could you build
+> for them? Founders who've become billionaires are always eager to talk about
+> that topic. That's how they became billionaires.
 
 ### Why Nerds are Unpopular (http://www.paulgraham.com/nerds.html)
 
-> I know a lot of people who were nerds in school, and they all tell
-> the same story: there is a strong correlation between being smart
-> and being a nerd, and an even stronger inverse correlation between
-> being a nerd and being popular. Being smart seems to make you unpopular.
-> 
-> Why? ... Being smart doesn't make you an outcast in elementary school.
-> Nor does it harm you in the real world. ... But in a typical American
-> secondary school, being smart is likely to make your life difficult. Why?
+> I know a lot of people who were nerds in school, and they all tell the same
+> story: there is a strong correlation between being smart and being a nerd,
+> and an even stronger inverse correlation between being a nerd and being
+> popular. Being smart seems to make you unpopular. Why? ... Being smart
+> doesn't make you an outcast in elementary school. Nor does it harm you in the
+> real world. ... But in a typical American secondary school, being smart is
+> likely to make your life difficult. Why?
 
-> Why don't smart kids make themselves popular? If they're so smart,
-> why don't they figure out how popularity works and beat the system,
-> just as they do for standardized tests?
->
-> ...
->
-> I think, is that they don't really want to be popular. ... There was
-> something else I wanted more: to be smart. Not simply to do well in
-> school, though that counted for something, but ... to make great things.
+> Why don't smart kids make themselves popular? If they're so smart, why don't
+> they figure out how popularity works and beat the system, just as they do for
+> standardized tests? ... I think, is that they don't really want to be
+> popular. ... There was something else I wanted more: to be smart. Not simply
+> to do well in school, though that counted for something, but ... to make
+> great things.
 
 > Public school teachers are in much the same position as prison wardens.
-> Wardens' main concern is to keep the prisoners on the premises.
-> They also need to keep them fed, and as far as possible prevent them
-> from killing one another. Beyond that, they want to have as little to
-> do with the prisoners as possible, so they leave them to create
-> whatever social organization they want.
+> Wardens' main concern is to keep the prisoners on the premises. They also
+> need to keep them fed, and as far as possible prevent them from killing one
+> another. Beyond that, they want to have as little to do with the prisoners as
+> possible, so they leave them to create whatever social organization they
+> want.
 
-> Why is the real world more hospitable to nerds? ... [Because] it's
-> very large, and the things you do have real effects. When the things
-> you do have real effects, it's no longer enough just to be pleasing.
-> It starts to be important to get the right answers, and that's
-> where nerds show to advantage.
+> Why is the real world more hospitable to nerds? ... [Because] it's very
+> large, and the things you do have real effects. When the things you do have
+> real effects, it's no longer enough just to be pleasing. It starts to be
+> important to get the right answers, and that's where nerds show to advantage.
 
-> If I could go back and give my thirteen year old self some advice,
-> the main thing I'd tell him would be to stick his head up and look
-> around. I didn't really grasp it at the time, but the whole world we
-> lived in was as fake as a Twinkie. Not just school, but the entire town.
+> If I could go back and give my thirteen year old self some advice, the main
+> thing I'd tell him would be to stick his head up and look around. I didn't
+> really grasp it at the time, but the whole world we lived in was as fake as a
+> Twinkie. Not just school, but the entire town.
 
-> Adults can't avoid seeing that teenage kids are tormented. So why
-> don't they do something about it? Because they blame it on puberty.
-> ... Teenage kids used to have a more active role in society. In
-> pre-industrial times, they were all apprentices of one sort or
-> another ... Now adults have no immediate use for teenagers.
-> They would be in the way in an office. So they drop them off at
-> school on their way to work, much as they might drop the dog off
-> at a kennel if they were going away for the weekend.
+> Adults can't avoid seeing that teenage kids are tormented. So why don't they
+> do something about it? Because they blame it on puberty. ... Teenage kids
+> used to have a more active role in society. In pre-industrial times, they
+> were all apprentices of one sort or another ... Now adults have no immediate
+> use for teenagers. They would be in the way in an office. So they drop them
+> off at school on their way to work, much as they might drop the dog off at a
+> kennel if they were going away for the weekend.
 
-> The mediocrity of American public schools has worse consequences than
-> just making kids unhappy for six years. It breeds a rebelliousness that
-> actively drives kids away from the things they're supposed to be
-> learning. Like many nerds, probably, it was years after high school
-> before I could bring myself to read anything we'd been assigned then. 
+> The mediocrity of American public schools has worse consequences than just
+> making kids unhappy for six years. It breeds a rebelliousness that actively
+> drives kids away from the things they're supposed to be learning. Like many
+> nerds, probably, it was years after high school before I could bring myself
+> to read anything we'd been assigned then.
 
-> Nerds aren't losers. They're just playing a different game, and a
-> game much closer to the one played in the real world.
+> Nerds aren't losers. They're just playing a different game, and a game much
+> closer to the one played in the real world.
 
-> If life seems awful to kids, it's neither because hormones are turning
-> you all into monsters (as your parents believe), nor because life
-> actually is awful (as you believe). It's because the adults, who no
-> longer have any economic use for you, have abandoned you to spend years
-> cooped up together with nothing real to do. Any society of that type is
-> awful to live in. You don't have to look any further to explain why
-> teenage kids are unhappy.
+> If life seems awful to kids, it's neither because hormones are turning you
+> all into monsters (as your parents believe), nor because life actually is
+> awful (as you believe). It's because the adults, who no longer have any
+> economic use for you, have abandoned you to spend years cooped up together
+> with nothing real to do. Any society of that type is awful to live in. You
+> don't have to look any further to explain why teenage kids are unhappy.
 
 ## Other Potential Reads
 
