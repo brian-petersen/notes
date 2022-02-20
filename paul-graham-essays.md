@@ -283,6 +283,126 @@ be asking about their users.
 > more people start them, that those who do get better terms from investors,
 > and that the resulting companies become more valuable. 
 
+### How to Start a Startup (http://www.paulgraham.com/start.html)
+
+> You need three things to create a successful startup: to start with good
+> people, to make something customers actually want, and to spend as little
+> money as possible. Most startups that fail do it because they fail at one of
+> these. A startup that does all three will probably succeed.
+
+> In particular, you don't need a brilliant idea to start a startup around. The
+> way a startup makes money is to offer people better technology than they have
+> now. But what people have now is often so bad that it doesn't take brilliance
+> to do better.
+
+> I can think of several heuristics for generating ideas for startups, but most
+> reduce to this: look at something people are trying to do, and figure out how
+> to do it in a way that doesn't suck.
+
+> Ideas for startups are worth something, certainly, but the trouble is,
+> they're not transferrable. They're not something you could hand to someone
+> else to execute. Their value is mainly as starting points: as questions for
+> the people who had them to continue thinking about. What matters is not
+> ideas, but the people who have them. Good people can fix bad ideas, but good
+> ideas can't save bad people.
+
+> One of the best tricks I learned during our startup was a rule for deciding
+> who to hire. Could you describe the person as an animal? ... It means someone
+> who takes their work a little too seriously; someone who does what they do so
+> well that they pass right through professional and cross over into obsessive.
+
+> Like most startups, ours began with a group of friends, and it was through
+> personal contacts that we got most of the people we hired. This is a crucial
+> difference between startups and big companies. Being friends with someone for
+> even a couple days will tell you more than companies could ever learn in
+> interviews.
+
+> Business was no great mystery. It's not something like physics or medicine
+> that requires extensive study. You just try to get people to pay you for
+> stuff.
+
+> In nearly every failed startup, the real problem was that customers didn't
+> want the product. ... The only way to make something customers want is to get
+> a prototype in front of them and refine it based on their reactions.
+
+> It's worth trying very, very hard to make technology easy to use. Hackers are
+> so used to computers that they have no idea how horrifying software seems to
+> normal people.
+
+> How do you figure out what customers want? Watch them. One of the best places
+> to do this was at trade shows. Trade shows didn't pay as a way of getting new
+> customers, but they were worth it as market research.
+
+> No matter what kind of startup you start, it will probably be a stretch for
+> you, the founders, to understand what users want. The only kind of software
+> you can build without studying users is the sort for which you are the
+> typical user. ... If you want ideas for startups, one of the most valuable
+> things you could do is find a middle-sized non-technology company and spend a
+> couple weeks just watching what they do with computers. Most good hackers
+> have no more idea of the horrors perpetrated in these places than rich
+> Americans do of what goes on in Brazilian slums.
+
+> Financially, a startup is like a pass/fail course. The way to get rich from a
+> startup is to maximize the company's chances of succeeding, not to maximize
+> the amount of stock you retain. So if you can trade stock for something that
+> improves your odds, it's probably a smart move.
+
+> The first thing you'll need is a few tens of thousands of dollars to pay your
+> expenses while you develop a prototype. This is called seed capital. Because
+> so little money is involved, raising seed capital is comparatively easy-- at
+> least in the sense of getting a quick yes or no. Usually you get seed money
+> from individual rich people called "angels." Often they're people who
+> themselves got rich from technology. At the seed stage, investors don't
+> expect you to have an elaborate business plan. Most know that they're
+> supposed to decide quickly. It's not unusual to get a check within a week
+> based on a half-page agreement.
+
+> When and if you get an infusion of real money from investors, what should you
+> do with it? Not spend it, that's what. In nearly every startup that fails,
+> the proximate cause is running out of money. Usually there is something
+> deeper wrong. But even a proximate cause of death is worth trying hard to
+> avoid.
+
+> There is nothing more valuable, in the early stages of a startup, than smart
+> users. If you listen to them, they'll tell you exactly how to make a winning
+> product. And not only will they give you this advice for free, they'll pay
+> you.
+
+> To make something users love, you have to understand them. And the bigger you
+> are, the harder that is. So I say "get big slow." The slower you burn through
+> your funding, the more time you have to learn.
+
+> When you get a couple million dollars from a VC firm, you tend to feel rich.
+> It's important to realize you're not. A rich company is one with large
+> revenues. This money isn't revenue. It's money investors have given you in
+> the hope you'll be able to generate revenues. So despite those millions in
+> the bank, you're still poor.
+
+> So who should start a startup? Someone who is a good hacker, between about 23
+> and 38, and who wants to solve the money problem in one shot instead of
+> getting paid gradually over a conventional working life.
+
+> Do you actually want to start a startup? What it amounts to, economically, is
+> compressing your working life into the smallest possible space. Instead of
+> working at an ordinary rate for 40 years, you work like hell for four. ...
+> During this time you'll do little but work, because when you're not working,
+> your competitors will be. My only leisure activities were running, which I
+> needed to do to keep working anyway, and about fifteen minutes of reading a
+> night.
+
+> I don't think the amount of bullshit you have to deal with in a startup is
+> more than you'd endure in an ordinary working life. It's probably less, in
+> fact; it just seems like a lot because it's compressed into a short period.
+> So mainly what a startup buys you is time. That's the way to think about it
+> if you're trying to decide whether to start one. If you're the sort of person
+> who would like to solve the money problem once and for all instead of working
+> for a salary for 40 years, then a startup makes sense.
+
+> If you want to do it, do it. Starting a startup is not the great mystery it
+> seems from outside. It's not something you have to know about "business" to
+> do. Build something users love, and spend less than you make. How hard is
+> that?
+
 ## Other Potential Reads
 
 (As of 2/18/2022)
@@ -457,7 +577,6 @@ be asking about their users.
 * Writing,  Briefly (http://www.paulgraham.com/writing44.html)
 * Undergraduation (http://www.paulgraham.com/college.html)
 * A Unified Theory of VC Suckage (http://www.paulgraham.com/venturecapital.html)
-* How to Start a Startup (http://www.paulgraham.com/start.html)
 * What You'll Wish You'd Known (http://www.paulgraham.com/hs.html)
 * Made in USA (http://www.paulgraham.com/usa.html)
 * It's Charisma, Stupid (http://www.paulgraham.com/charisma.html)
