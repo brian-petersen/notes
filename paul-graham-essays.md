@@ -266,6 +266,23 @@ be asking about their users.
 > get rich by creating wealth, you have to know what people want. So few
 > businesses really pay attention to making customers happy.
 
+### How People Get Rich Now (http://www.paulgraham.com/richnow.html)
+
+> Every year since 1982, Forbes magazine has published a list of the richest
+> Americans. If we compare the 100 richest people in 1982 to the 100 richest in
+> 2020, we notice some big differences. ... How are people making these new
+> fortunes? Roughly 3/4 by starting companies and 1/4 by investing. Of the 73
+> new fortunes in 2020, 56 derive from founders' or early employees' equity.
+
+> By 2020 the biggest source of new wealth was what are sometimes called "tech"
+> companies. Of the 73 new fortunes, about 30 derive from such companies. These
+> are particularly common among the richest of the rich: 8 of the top 10
+> fortunes in 2020 were new fortunes of this type.
+
+> It's easier now to start and grow a company than it has ever been. That means
+> more people start them, that those who do get better terms from investors,
+> and that the resulting companies become more valuable. 
+
 ## Other Potential Reads
 
 (As of 2/18/2022)
@@ -280,7 +297,6 @@ be asking about their users.
 * Crazy New Ideas (http://www.paulgraham.com/newideas.html)
 * An NFT That Saves Lives (http://www.paulgraham.com/nft.html)
 * The Real Reason to End the Death Penalty (http://www.paulgraham.com/real.html)
-* How People Get Rich Now (http://www.paulgraham.com/richnow.html)
 * Write Simply (http://www.paulgraham.com/simply.html)
 * Donate Unrestricted (http://www.paulgraham.com/donate.html)
 * What I Worked On (http://www.paulgraham.com/worked.html)
