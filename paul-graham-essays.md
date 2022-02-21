@@ -281,7 +281,7 @@ be asking about their users.
 
 > It's easier now to start and grow a company than it has ever been. That means
 > more people start them, that those who do get better terms from investors,
-> and that the resulting companies become more valuable. 
+> and that the resulting companies become more valuable.
 
 ### How to Start a Startup (http://www.paulgraham.com/start.html)
 
@@ -403,6 +403,160 @@ be asking about their users.
 > do. Build something users love, and spend less than you make. How hard is
 > that?
 
+### Ideas for Startups (http://www.paulgraham.com/ideas.html)
+
+> How do you get good ideas for startups? That's probably the number one
+> question people ask me. I'd like to reply with another question: why do
+> people think it's hard to come up with ideas for startups?
+
+> Startup ideas are not million dollar ideas, and here's an experiment you can
+> try to prove it: just try to sell one. Nothing evolves faster than markets.
+> The fact that there's no market for startup ideas suggests there's no demand.
+> Which means, in the narrow sense of the word, that startup ideas are
+> worthless.
+
+> The initial idea is just a starting point-- not a blueprint, but a question.
+> It might help if they were expressed that way. Instead of saying that your
+> idea is to make a collaborative, web-based spreadsheet, say: could one make a
+> collaborative, web-based spreadsheet? A few grammatical tweaks, and a
+> woefully incomplete idea becomes a promising question to explore.
+
+> Treating a startup idea as a question changes what you're looking for. If an
+> idea is a blueprint, it has to be right. But if it's a question, it can be
+> wrong, so long as it's wrong in a way that leads to more ideas.
+
+> To generate such questions you need two things: to be familiar with promising
+> new technologies, and to have the right kind of friends. New technologies are
+> the ingredients startup ideas are made of, and conversations with friends are
+> the kitchen they're cooked in.
+
+> Stay upwind for as long as you can, then cash in the potential energy you've
+> accumulated when you need to pay for kids.
+
+> It's obvious why you want exposure to new technology, but why do you need
+> other people? Can't you just think of new ideas yourself? The empirical
+> answer is: no. Even Einstein needed people to bounce ideas off. Ideas get
+> developed in the process of explaining them to the right kind of person. You
+> need that resistance, just as a carver needs the resistance of the wood.
+
+> What these groups of co-founders do together is more complicated than just
+> sitting down and trying to think of ideas. I suspect the most productive
+> setup is a kind of together-alone-together sandwich. Together you talk about
+> some hard problem, probably getting nowhere. Then, the next morning, one of
+> you has an idea in the shower about how to solve it. He runs eagerly to to
+> tell the others, and together they work out the kinks.
+
+> I find that to have good ideas I need to be working on some problem. You
+> can't start with randomness. You have to start with a problem, then let your
+> mind wander just far enough for new ideas to form.
+
+> In a way, it's harder to see problems than their solutions. Most people
+> prefer to remain in denial about problems. It's obvious why: problems are
+> irritating.
+
+> Let me repeat that recipe: finding the problem intolerable and feeling it
+> must be possible to solve it. Simple as it seems, that's the recipe for a lot
+> of startup ideas.
+
+> What's special about startup ideas? Startup ideas are ideas for companies,
+> and companies have to make money. And the way to make money is to make
+> something people want.
+
+> It seems like it violates some kind of conservation law, but there it is: the
+> best way to get a "million dollar idea" is just to do what hackers enjoy
+> doing anyway.
+
+### How to Get Startup Ideas (http://www.paulgraham.com/startupideas.html)
+
+> The way to get startup ideas is not to try to think of startup ideas. It's to
+> look for problems, preferably problems you have yourself. The very best
+> startup ideas tend to have three things in common: they're something the
+> founders themselves want, that they themselves can build, and that few others
+> realize are worth doing.
+
+> Why do so many founders build things no one wants? Because they begin by
+> trying to think of startup ideas. That m.o. is doubly dangerous: it doesn't
+> merely yield few good ideas; it yields bad ideas that sound plausible enough
+> to fool you into working on them.
+
+> When you have an idea for a startup, ask yourself: who wants this right now?
+> Who wants this so much that they'll use it even when it's a crappy version
+> one made by a two-person startup they've never heard of? If you can't answer
+> that, the idea is probably bad.
+
+> How do you tell whether there's a path out of an idea? How do you tell
+> whether something is the germ of a giant company, or just a niche product?
+> Often you can't. So if you can't predict whether there's a path out of an
+> idea, how do you choose between ideas? The truth is disappointing but
+> interesting: if you're the right sort of person, you have the right sort of
+> hunches. If you're at the leading edge of a field that's changing fast, when
+> you have a hunch that something is worth doing, you're more likely to be
+> right.
+
+> The verb you want to be using with respect to startup ideas is not "think up"
+> but "notice."
+
+> Once you're living in the future in some respect, the way to notice startup
+> ideas is to look for things that seem to be missing. If you're really at the
+> leading edge of a rapidly changing field, there will be things that are
+> obviously missing. What won't be obvious is that they're startup ideas.
+
+> Give yourself some time. You have a lot of control over the rate at which you
+> turn yours into a prepared mind, but you have less control over the stimuli
+> that spark ideas when they hit it.
+
+> A good way to trick yourself into noticing ideas is to work on projects that
+> seem like they'd be cool. If you do that, you'll naturally tend to build
+> things that are missing. It wouldn't seem as interesting to build something
+> that already existed.
+
+> Err on the side of doing things where you'll face competitors. Inexperienced
+> founders usually give competitors more credit than they deserve. Whether you
+> succeed depends far more on you than on your competitors. So better a good
+> idea with competitors than a bad one without.
+
+> You don't need to worry about entering a "crowded market" so long as you have
+> a thesis about what everyone else in it is overlooking. In fact that's a very
+> promising starting point.
+
+> There are two more filters you'll need to turn off if you want to notice
+> startup ideas: the unsexy filter and the schlep filter.
+
+Schlep filter is avoiding laborious work -- keeps you from problems you fear.
+
+Unsexy filter is avoiding  work you despise.
+
+> While the best way to discover startup ideas is to become the sort of person
+> who has them and then build whatever interests you, sometimes you don't have
+> that luxury. Sometimes you need an idea now.
+
+> One of the biggest dangers of not using the organic method is the example of
+> the organic method. Organic ideas feel like inspirations. There are a lot of
+> stories about successful startups that began when the founders had what
+> seemed a crazy idea but "just knew" it was promising. When you feel that
+> about an idea you've had while trying to come up with startup ideas, you're
+> probably mistaken.
+
+> The place to start looking for ideas is things you need. There must be things
+> you need.
+
+> A good trick for bypassing the schlep and to some extent the unsexy filter is
+> to ask what you wish someone else would build, so that you could use it. What
+> would you pay for right now?
+
+> Finding startup ideas is a subtle business, and that's why most people who
+> try fail so miserably. It doesn't work well simply to try to think of startup
+> ideas. If you do that, you get bad ones that sound dangerously plausible. The
+> best approach is more indirect: if you have the right sort of background,
+> good startup ideas will seem obvious to you. But even then, not immediately.
+> It takes time to come across situations where you notice something missing.
+> And often these gaps won't seem to be ideas for companies, just things that
+> would be interesting to build. Which is why it's good to have the time and
+> the inclination to build things just because they're interesting.
+
+> Live in the future and build what seems interesting. Strange as it sounds,
+> that's the real recipe.
+
 ## Other Potential Reads
 
 (As of 2/18/2022)
@@ -465,7 +619,6 @@ be asking about their users.
 * How to Convince Investors (http://www.paulgraham.com/convince.html)
 * Do Things that Don't Scale (http://www.paulgraham.com/ds.html)
 * Startup Investing Trends (http://www.paulgraham.com/invtrend.html)
-* How to Get Startup Ideas (http://www.paulgraham.com/startupideas.html)
 * The Hardware Renaissance (http://www.paulgraham.com/hw.html)
 * Startup = Growth (http://www.paulgraham.com/growth.html)
 * Black Swan Farming (http://www.paulgraham.com/swan.html)
@@ -565,7 +718,6 @@ be asking about their users.
 * Web 2.0 (http://www.paulgraham.com/web20.html)
 * How to Fund a Startup (http://www.paulgraham.com/startupfunding.html)
 * The Venture Capital Squeeze (http://www.paulgraham.com/vcsqueeze.html)
-* Ideas for Startups (http://www.paulgraham.com/ideas.html)
 * What I Did this Summer (http://www.paulgraham.com/sfp.html)
 * Inequality and Risk (http://www.paulgraham.com/inequality.html)
 * After the Ladder (http://www.paulgraham.com/ladder.html)
