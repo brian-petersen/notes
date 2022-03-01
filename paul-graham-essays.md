@@ -557,6 +557,14 @@ Unsexy filter is avoiding  work you despise.
 > Live in the future and build what seems interesting. Strange as it sounds,
 > that's the real recipe.
 
+## Next Reads
+
+* How to Do What You Love (http://www.paulgraham.com/love.html)
+* How to Be an Expert in a Changing World (http://www.paulgraham.com/ecw.html)
+* How to Think for Yourself (http://www.paulgraham.com/think.html)
+* Do Things that Don't Scale (http://www.paulgraham.com/ds.html)
+* How to Lose Time and Money h(ttp://www.paulgraham.com/selfindulgence.html)
+
 ## Other Potential Reads
 
 (As of 2/18/2022)
@@ -576,7 +584,6 @@ Unsexy filter is avoiding  work you despise.
 * What I Worked On (http://www.paulgraham.com/worked.html)
 * Earnestness (http://www.paulgraham.com/earnest.html)
 * The Airbnbs (http://www.paulgraham.com/airbnbs.html)
-* How to Think for Yourself (http://www.paulgraham.com/think.html)
 * Early Work (http://www.paulgraham.com/early.html)
 * Modeling a Wealth Tax (http://www.paulgraham.com/wtax.html)
 * The Four Quadrants of Conformism (http://www.paulgraham.com/conformism.html)
@@ -609,7 +616,6 @@ Unsexy filter is avoiding  work you despise.
 * What Doesn't Seem Like Work? (http://www.paulgraham.com/work.html)
 * Don't Talk to Corp Dev (http://www.paulgraham.com/corpdev.html)
 * Let the Other 95% of Great Programmers In (http://www.paulgraham.com/95.html)
-* How to Be an Expert in a Changing World (http://www.paulgraham.com/ecw.html)
 * How You Know (http://www.paulgraham.com/know.html)
 * The Fatal Pinch (http://www.paulgraham.com/pinch.html)
 * Mean People Fail (http://www.paulgraham.com/mean.html)
@@ -617,7 +623,6 @@ Unsexy filter is avoiding  work you despise.
 * How to Raise Money (http://www.paulgraham.com/fr.html)
 * Investor Herd Dynamics (http://www.paulgraham.com/herd.html)
 * How to Convince Investors (http://www.paulgraham.com/convince.html)
-* Do Things that Don't Scale (http://www.paulgraham.com/ds.html)
 * Startup Investing Trends (http://www.paulgraham.com/invtrend.html)
 * The Hardware Renaissance (http://www.paulgraham.com/hw.html)
 * Startup = Growth (http://www.paulgraham.com/growth.html)
@@ -643,7 +648,6 @@ Unsexy filter is avoiding  work you despise.
 * The Future of Startup Funding h(ttp://www.paulgraham.com/future.html)
 * The Acceleration of Addictiveness (http://www.paulgraham.com/addiction.html)
 * The Top Idea in Your Mind h(ttp://www.paulgraham.com/top.html)
-* How to Lose Time and Money h(ttp://www.paulgraham.com/selfindulgence.html)
 * Organic Startup Ideas (http://www.paulgraham.com/organic.html)
 * Apple's Mistake (http://www.paulgraham.com/apple.html)
 * What Startups Are Really Like (http://www.paulgraham.com/really.html)
@@ -713,7 +717,6 @@ Unsexy filter is avoiding  work you despise.
 * Are Software Patents Evil? (http://www.paulgraham.com/softwarepatents.html)
 * 6,631,372 (http://www.paulgraham.com/6631327.html)
 * Why YC (http://www.paulgraham.com/whyyc.html)
-* How to Do What You Love (http://www.paulgraham.com/love.html)
 * Good and Bad Procrastination (http://www.paulgraham.com/procrastination.html)
 * Web 2.0 (http://www.paulgraham.com/web20.html)
 * How to Fund a Startup (http://www.paulgraham.com/startupfunding.html)
