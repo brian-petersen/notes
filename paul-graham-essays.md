@@ -557,9 +557,136 @@ Unsexy filter is avoiding  work you despise.
 > Live in the future and build what seems interesting. Strange as it sounds,
 > that's the real recipe.
 
+### How to Do What You Love (http://www.paulgraham.com/love.html)
+
+> To do something well you have to like it. That idea is not exactly novel.
+> We've got it down to four words: "Do what you love." But it's not enough just
+> to tell people that. Doing what you love is complicated.
+
+> When I was a kid, it seemed as if work and fun were opposites by definition.
+> Life had two states: some of the time adults were making you do things, and
+> that was called work; the rest of the time you could do what you wanted, and
+> that was called playing.
+
+> Why is it conventional to pretend to like what you do? ... If you have to
+> like something to do it well, then the most successful people will all like
+> what they do. That's where the upper-middle class tradition comes from. Just
+> as houses all over America are full of chairs that are, without the owners
+> even knowing it, nth-degree imitations of chairs designed 250 years ago for
+> French kings, conventional attitudes about work are, without the owners even
+> knowing it, nth-degree imitations of the attitudes of people who've done
+> great things.
+
+> Then the important question became not how to make money, but what to work
+> on.
+
+> Work [is] to make some original contribution to the world, and in the process
+> not to starve.
+
+> If you think something's supposed to hurt, you're less likely to notice if
+> you're doing it wrong.
+
+> How much are you supposed to like what you do? Unless you know that, you
+> don't know when to stop searching. And if, like most people, you
+> underestimate it, you'll tend to stop searching too early. You'll end up
+> doing something chosen for you by your parents, or the desire to make money,
+> or prestige—or sheer inertia.
+
+> Here's an upper bound: Do what you love doesn't mean, do what you would like
+> to do most this second. ... The rule about doing what you love assumes a
+> certain length of time. It doesn't mean, do what will make you happiest this
+> second, but what will make you happiest over some longer period, like a week
+> or a month. Unproductive pleasures pall eventually. After a while you get
+> tired of lying on the beach. If you want to stay happy, you have to do
+> something.
+
+> As a lower bound, you have to like your work more than any unproductive
+> pleasure. You have to like what you do enough that the concept of "spare
+> time" seems mistaken. Which is not to say you have to spend all your time
+> working. You can only work so much before you get tired and start to screw
+> up. Then you want to do something else—even something mindless. But you don't
+> regard this time as the prize and the time you spend working as the pain you
+> endure to earn it.
+
+> To be happy I think you have to be doing something you not only enjoy, but
+> admire. You have to be able to say, at the end, wow, that's pretty cool.
+
+> Prestige is just fossilized inspiration. If you do anything well enough,
+> you'll make it prestigious. Plenty of things we now consider prestigious were
+> anything but at first. Jazz comes to mind—though almost any established art
+> form would do. So just do what you like, and let prestige take care of
+> itself.
+
+> With such powerful forces leading us astray, it's not surprising we find it
+> so hard to discover what we like to work on. Most people are doomed in
+> childhood by accepting the axiom that work = pain. Those who escape this are
+> nearly all lured onto the rocks by prestige or money.
+
+> Although doing great work takes less discipline than people think—because the
+> way to do great work is to find something you like so much that you don't
+> have to force yourself to do it—finding work you love does usually require
+> discipline.
+
+> Sometimes jumping from one sort of work to another is a sign of energy, and
+> sometimes it's a sign of laziness.
+>
+> Is there some test you can use to keep yourself honest? One is to try to do a
+> good job at whatever you're doing, even if you don't like it. Then at least
+> you'll know you're not using dissatisfaction as an excuse for being lazy.
+> Perhaps more importantly, you'll get into the habit of doing things well.
+>
+> Another test you can use is: always produce. For example, if you have a day
+> job you don't take seriously because you plan to be a novelist, are you
+> producing? Are you writing pages of fiction, however bad? As long as you're
+> producing, you'll know you're not merely using the hazy vision of the grand
+> novel you plan to write one day as an opiate. The view of it will be
+> obstructed by the all too palpably flawed one you're actually writing.
+
+> "Always produce" is also a heuristic for finding the work you love. If you
+> subject yourself to that constraint, it will automatically push you away from
+> things you think you're supposed to work on, toward things you actually like.
+> "Always produce" will discover your life's work the way water, with the aid
+> of gravity, finds the hole in your roof.
+
+> One has to make a living, and it's hard to get paid for doing work you love.
+> There are two routes to that destination:
+>
+> The organic route: as you become more eminent, gradually to increase the
+> parts of your job that you like at the expense of those you don't.
+
+> The two-job route: to work at things you don't like to get money to work on
+> things you do.
+>
+> The organic route is more common. It happens naturally to anyone who does
+> good work. A young architect has to take whatever work he can get, but if he
+> does well he'll gradually be in a position to pick and choose among projects.
+> The disadvantage of this route is that it's slow and uncertain. Even tenure
+> is not real freedom.
+
+> In the design of lives, as in the design of most other things, you get better
+> results if you use flexible media. So unless you're fairly sure what you want
+> to do, your best bet may be to choose a type of work that could turn into
+> either an organic or two-job career.
+
+> Seek jobs that let you do many different things, so you can learn faster what
+> various kinds of work are like.
+
+> [Some say] give me a million dollars and I'll figure out what to do. But it's
+> harder than it looks. Constraints give your life shape. Remove them and most
+> people have no idea what to do: look at what happens to those who win
+> lotteries or inherit money. Much as everyone thinks they want financial
+> security, the happiest people are not those who have it, but those who like
+> what they do. So a plan that promises freedom at the expense of knowing what
+> to do with it may not be as good as it seems.
+
+> Finding work you love is very difficult. Most people fail. Even if you
+> succeed, it's rare to be free to work on what you want till your thirties or
+> forties. But if you have the destination in sight you'll be more likely to
+> arrive at it. If you know you can love work, you're in the home stretch, and
+> if you know what work you love, you're practically there.
+
 ## Next Reads
 
-* How to Do What You Love (http://www.paulgraham.com/love.html)
 * How to Be an Expert in a Changing World (http://www.paulgraham.com/ecw.html)
 * How to Think for Yourself (http://www.paulgraham.com/think.html)
 * Do Things that Don't Scale (http://www.paulgraham.com/ds.html)
