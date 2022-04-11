@@ -694,8 +694,9 @@ Unsexy filter is avoiding  work you despise.
 
 ## Other Potential Reads
 
-(As of 2/18/2022)
+(As of 4/10/2022)
 
+* Heresy (http://paulgraham.com/heresy.html)
 * Putting Ideas into Words (http://www.paulgraham.com/words.html)
 * Is There Such a Thing as Good Taste? (http://www.paulgraham.com/goodtaste.html)
 * Beyond Smart (http://www.paulgraham.com/smart.html)
