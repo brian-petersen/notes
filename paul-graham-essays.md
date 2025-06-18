@@ -140,7 +140,7 @@ be asking about their users.
 
 > If you wanted to get rich, how would you do it? I think your best bet would
 > be to start or join a startup. That's been a reliable way to get rich for
-> hundreds of years. The Proposition
+> hundreds of years.
 
 > Economically, you can think of a startup as a way to compress your whole
 > working life into a few years. Instead of working at a low intensity for
