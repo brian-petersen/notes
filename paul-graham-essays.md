@@ -687,15 +687,34 @@ Unsexy filter is avoiding  work you despise.
 
 ## Next Reads
 
+* How to Do Great Work (http://www.paulgraham.com/greatwork.html)
+* Having Kids (http://www.paulgraham.com/kids.html)
+* How to Lose Time and Money (http://www.paulgraham.com/selfindulgence.html)
 * How to Be an Expert in a Changing World (http://www.paulgraham.com/ecw.html)
 * How to Think for Yourself (http://www.paulgraham.com/think.html)
 * Do Things that Don't Scale (http://www.paulgraham.com/ds.html)
-* How to Lose Time and Money h(ttp://www.paulgraham.com/selfindulgence.html)
 
 ## Other Potential Reads
 
-(As of 4/10/2022)
+(As of 2025-06-17)
 
+* The Shape of the Essay Field
+* Good Writing
+* What to Do
+* The Origins of Wokeness
+* Writes and Write-Nots
+* When To Do What You Love
+* Founder Mode
+* The Right Kind of Stubborn
+* The Reddits
+* How to Start Google
+* The Best Essay
+* Superlinear Returns (http://www.paulgraham.com/superlinear.html)
+* How to Get New Ideas (http://www.paulgraham.com/getideas.html)
+* The Need to Read (http://www.paulgraham.com/read.html)
+* What You (Want to)* Want (http://www.paulgraham.com/want.html)
+* Alien Truth (http://www.paulgraham.com/alien.html)
+* What I've Learned from Users (http://www.paulgraham.com/users.html)
 * Heresy (http://paulgraham.com/heresy.html)
 * Putting Ideas into Words (http://www.paulgraham.com/words.html)
 * Is There Such a Thing as Good Taste? (http://www.paulgraham.com/goodtaste.html)
@@ -722,7 +741,6 @@ Unsexy filter is avoiding  work you despise.
 * Haters (http://www.paulgraham.com/fh.html)
 * The Two Kinds of Moderate (http://www.paulgraham.com/mod.html)
 * Fashionable Problems (http://www.paulgraham.com/fp.html)
-* Having Kids (http://www.paulgraham.com/kids.html)
 * The Lesson to Unlearn (http://www.paulgraham.com/lesson.html)
 * Novelty and Heresy (http://www.paulgraham.com/nov.html)
 * The Bus Ticket Theory of Genius (http://www.paulgraham.com/genius.html)
@@ -771,22 +789,22 @@ Unsexy filter is avoiding  work you despise.
 * What We Look for in Founders (http://www.paulgraham.com/founders.html)
 * The New Funding Landscape (http://www.paulgraham.com/superangels.html)
 * Where to See Silicon Valley (http://www.paulgraham.com/seesv.html)
-* High Resolution Fundraising h(ttp://www.paulgraham.com/hiresfund.html)
-* What Happened to Yahoo h(ttp://www.paulgraham.com/yahoo.html)
-* The Future of Startup Funding h(ttp://www.paulgraham.com/future.html)
+* High Resolution Fundraising (http://www.paulgraham.com/hiresfund.html)
+* What Happened to Yahoo (http://www.paulgraham.com/yahoo.html)
+* The Future of Startup Funding (http://www.paulgraham.com/future.html)
 * The Acceleration of Addictiveness (http://www.paulgraham.com/addiction.html)
-* The Top Idea in Your Mind h(ttp://www.paulgraham.com/top.html)
+* The Top Idea in Your Mind (http://www.paulgraham.com/top.html)
 * Organic Startup Ideas (http://www.paulgraham.com/organic.html)
 * Apple's Mistake (http://www.paulgraham.com/apple.html)
 * What Startups Are Really Like (http://www.paulgraham.com/really.html)
-* Persuade xor Discover h(ttp://www.paulgraham.com/discover.html)
+* Persuade xor Discover (http://www.paulgraham.com/discover.html)
 * Post-Medium Publishing (http://www.paulgraham.com/publishing.html)
 * The List of N Things (http://www.paulgraham.com/nthings.html)
-* The Anatomy of Determination h(ttp://www.paulgraham.com/determination.html)
-* What Kate Saw in Silicon Valley  h(ttp://www.paulgraham.com/kate.html)
+* The Anatomy of Determination (http://www.paulgraham.com/determination.html)
+* What Kate Saw in Silicon Valley  (http://www.paulgraham.com/kate.html)
 * The Trouble with the Segway (http://www.paulgraham.com/segway.html)
 * Ramen Profitable (http://www.paulgraham.com/ramenprofitable.html)
-* Maker's Schedule, Manager's Schedule h(ttp://www.paulgraham.com/makersschedule.html)
+* Maker's Schedule, Manager's Schedule (http://www.paulgraham.com/makersschedule.html)
 * A Local Revolution? (http://www.paulgraham.com/revolution.html)
 * Why Twitter is a Big Deal (http://www.paulgraham.com/twitter.html)
 * The Founder Visa (http://www.paulgraham.com/foundervisa.html)
@@ -797,11 +815,11 @@ Unsexy filter is avoiding  work you despise.
 * Can You Buy a Silicon Valley?  Maybe. (http://www.paulgraham.com/maybe.html)
 * What I've Learned from Hacker News (http://www.paulgraham.com/hackernews.html)
 * Startups in 13 Sentences (http://www.paulgraham.com/13sentences.html)
-* Keep Your Identity Small  h(ttp://www.paulgraham.com/identity.html)
+* Keep Your Identity Small  (http://www.paulgraham.com/identity.html)
 * After Credentials (http://www.paulgraham.com/credentials.html)
 * Could VC be a Casualty of the Recession? (http://www.paulgraham.com/divergence.html)
 * The High-Res Society (http://www.paulgraham.com/highres.html)
-* The Other Half of "Artists Ship"  h(ttp://www.paulgraham.com/artistsship.html)
+* The Other Half of "Artists Ship"  (http://www.paulgraham.com/artistsship.html)
 * Why to Start a Startup in a Bad Economy (http://www.paulgraham.com/badeconomy.html)
 * A Fundraising Survival Guide (http://www.paulgraham.com/fundraising.html)
 * The Pooled-Risk Company Management Company (http://www.paulgraham.com/prcmc.html)
